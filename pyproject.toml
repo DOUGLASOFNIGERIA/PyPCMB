@@ -1,0 +1,17 @@
+[project]
+name = "pypcmb"
+version = "0.1.0"
+description = "Tool for optimizing Phase Change Material placement in buildings"
+authors = [{name = "Your Name", email = "you@example.com"}]
+dependencies = [
+  "numpy",
+  "pandas",
+  "matplotlib",
+  "typer",           # CLI interface
+  "streamlit",       # Optional GUI
+  "pydantic",        # Input validation
+]
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
