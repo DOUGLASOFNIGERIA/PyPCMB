@@ -2,7 +2,7 @@
 name = "pypcmb"
 version = "0.1.0"
 description = "Tool for optimizing Phase Change Material placement in buildings"
-authors = [{name = "Your Name", email = "you@example.com"}]
+authors = [{name = "Moshood Afeez Olakunle", email = "douglasofnigeria@example.com"}]
 dependencies = [
   "numpy",
   "pandas",
